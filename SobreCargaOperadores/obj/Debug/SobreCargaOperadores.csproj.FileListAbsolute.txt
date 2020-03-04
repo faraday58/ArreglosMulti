@@ -1,0 +1,9 @@
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\bin\Debug\SobreCargaOperadores.exe.config
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\bin\Debug\SobreCargaOperadores.exe
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\bin\Debug\SobreCargaOperadores.pdb
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\obj\Debug\SobreCargaOperadores.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\obj\Debug\SobreCargaOperadores.exe
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\obj\Debug\SobreCargaOperadores.pdb
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\bin\Debug\Matrices.dll
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\bin\Debug\Matrices.pdb
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\SobreCargaOperadores\obj\Debug\SobreCargaOperadores.csproj.CopyComplete

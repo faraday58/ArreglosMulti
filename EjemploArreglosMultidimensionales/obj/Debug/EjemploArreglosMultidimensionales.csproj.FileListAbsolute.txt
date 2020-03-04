@@ -1,0 +1,6 @@
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\EjemploArreglosMultidimensionales\bin\Debug\EjemploArreglosMultidimensionales.exe.config
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\EjemploArreglosMultidimensionales\bin\Debug\EjemploArreglosMultidimensionales.exe
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\EjemploArreglosMultidimensionales\bin\Debug\EjemploArreglosMultidimensionales.pdb
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\EjemploArreglosMultidimensionales\obj\Debug\EjemploArreglosMultidimensionales.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\EjemploArreglosMultidimensionales\obj\Debug\EjemploArreglosMultidimensionales.exe
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\EjemploArreglosMultidimensionales\obj\Debug\EjemploArreglosMultidimensionales.pdb

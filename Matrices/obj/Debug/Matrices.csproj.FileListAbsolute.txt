@@ -1,0 +1,5 @@
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\Matrices\obj\Debug\Matrices.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\Matrices\bin\Debug\Matrices.dll
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\Matrices\bin\Debug\Matrices.pdb
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\Matrices\obj\Debug\Matrices.dll
+C:\Users\alumnos\source\repos\ARV\ArreglosMulti\Matrices\obj\Debug\Matrices.pdb
